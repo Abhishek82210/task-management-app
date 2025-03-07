@@ -12,7 +12,7 @@ A simple **Task Management Application** that allows users to **add, delete, and
 
 ✅ Add new tasks 📝  
 ✅ Delete tasks ❌  
-✅ Set task priority (High, Medium, Low) 🎯  
+✅ Set task priority 🎯  
 ✅ RESTful API for backend communication  
 
 ---
