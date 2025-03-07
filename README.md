@@ -26,7 +26,7 @@ A simple **Task Management Application** that allows users to **add, delete, and
 ### **Backend**  
 - Spring Boot  
 - Spring Data JPA (for database)  
-- H2 Database / MySQL (changeable in `application.properties`)  
+- MySQL database 
 - REST API  
 
 ---
